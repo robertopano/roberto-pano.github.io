@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: rgb(89, 80, 80);
+    background-color: black;
     position: fixed;
     height: 100%;
     overflow: auto;
@@ -12,20 +12,20 @@
   /* Sidebar links */
   .sidebar a {
     display: block;
-    color: black;
+    color: white;
     padding: 16px;
     text-decoration: none;
   }
   
   /* Active/current link */
   .sidebar a.active {
-    background-color: black;
-    color: white;
+    background-color: grey;
+    color: black;
   }
   
   /* Links on mouse-over */
   .sidebar a:hover:not(.active) {
-    background-color: rgb(49, 130, 243);
+    background-color: white;
     color: black;
   }
   
