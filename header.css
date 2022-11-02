@@ -55,9 +55,9 @@
     }
   }
   .profile_picture{
-    max-width:10%;
+    max-width:15%;
     height:auto;
-    align-self: center;
+    /* align-self: center; */
     position: relative;
     top: -2px; 
   }
