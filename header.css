@@ -54,3 +54,6 @@
       float: none;
     }
   }
+  .profile_picture{
+    align-self: center;
+  }
