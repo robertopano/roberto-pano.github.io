@@ -11,6 +11,6 @@ else{
 
 function swe(event){
     location.href = "http://ec2-50-16-177-186.compute-1.amazonaws.com/~roberto/"
-}
+};
 
 document.getElementById("swe_button").addEventListener("swe", share, false);
