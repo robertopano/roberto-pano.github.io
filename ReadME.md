@@ -1,4 +1,4 @@
-#**Welcome to my GitHub!
+# Welcome to my GitHub!
 
 
 Here is a link to my AWS instance: 
